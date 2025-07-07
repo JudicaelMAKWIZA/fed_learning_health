@@ -45,7 +45,7 @@ streamlit run app.py
 ---
 
 ## Structure du projet
-
+```
 ├── app.py → Application Streamlit
 ├── client.py → Client fédéré Flower
 ├── server.py → Serveur FedAvg
@@ -55,3 +55,4 @@ streamlit run app.py
 ├── simul.py → Génération de graphique accuracy/loss
 ├── requirements.txt → Dépendances
 └── results/ → Fichiers CSV générés
+```
