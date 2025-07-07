@@ -1,4 +1,4 @@
-# Application : Comparaison FedAvg vs FedProx (fed_learning_health)
+# Comparaison des algorithmes FedAvg et FedProx (fed_learning_health)
 
 Ce projet présente une mini application d’évaluation de deux stratégies d’apprentissage fédéré : **FedAvg** et **FedProx**, appliquées à des données médicales simulées, en utilisant **PyTorch** et **Flower**.  
 Une interface **Streamlit** est fournie pour visualiser les résultats.
