@@ -9,6 +9,7 @@ Une interface **Streamlit** est fournie pour visualiser les résultats.
 
 - Python 3.10 ou + recommandé
 - Navigateur web (Chrome, Firefox...)
+- Connexion internet
 
 ---
 
