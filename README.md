@@ -1,7 +1,8 @@
 # Comparaison des algorithmes FedAvg et FedProx (fed_learning_health)
 
-Ce projet présente une mini application d’évaluation de deux stratégies d’apprentissage fédéré : **FedAvg** et **FedProx**, appliquées à des données médicales simulées, en utilisant **PyTorch** et **Flower**.  
-Une interface **Streamlit** est fournie pour visualiser les résultats.
+Ce projet présente une mini application d’évaluation de deux stratégies d’apprentissage fédéré : **FedAvg** et **FedProx**, appliquées à des données médicales simulées, en utilisant **PyTorch** et **Flower**. Une interface **Streamlit** est fournie pour visualiser les résultats.
+
+N.B: Veuillez suivre rigouresement les indications ci-dessous : 👇
 
 ---
 
@@ -20,7 +21,7 @@ Comparer les performances des deux stratégies (accuracy et perte) à travers pl
 ---
 ## Cloner le projet 
 
-Pour clonner le projet, utiliser ce script :
+Pour cloner le projet, utiliser ce script :
 
 ```bash
 git clone https://github.com/JudicaelMAKWIZA/fed_learning_health.git
