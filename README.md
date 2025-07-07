@@ -18,6 +18,15 @@ Une interface **Streamlit** est fournie pour visualiser les résultats.
 Comparer les performances des deux stratégies (accuracy et perte) à travers plusieurs rounds d'entraînement répartis entre deux clients simulés.
 
 ---
+## Cloner le projet 
+
+Pour clonner le projet, utiliser ce script :
+
+```bash
+git clone https://github.com/JudicaelMAKWIZA/fed_learning_health.git
+```
+
+---
 
 ## Installation locale (manuelle)
 
