@@ -1,0 +1,8 @@
+round,client_id,accuracy,loss,algorithm
+1,0,0.8582,0.48,FedProx
+2,0,0.8582,0.44,FedProx
+3,0,0.8866,0.41,FedProx
+1,1,0.8866,0.42,FedProx
+2,1,0.9002,0.39,FedProx
+3,1,0.9002,0.36,FedProx
+
